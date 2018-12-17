@@ -9,7 +9,7 @@
 
 1up began to design the first mini-arcade machine in 2015. After continuous improvement in details and model perfection, it finally completed a series of mini-arcade machines from 1.3 inch, 2.2 inch, 3.5 inch, 5 inch, 7 inch and 10 inch. Thank you for your support and understanding. Now open source 7-inch and 10-inch drawings. Let's start DIY mini-arcade. After downloading the drawings, please make them immediately. Please don't put them in the warehouse. Share the fun of DIY with your good friends and retro game enthusiasts.
 
-Copyright reserved for 1UP. Please keep the 1UP logo!
+1UP Copyright reserved. Please keep the 1UP logo!
 
 https://youtu.be/v77OQt0Ir3E
 
